@@ -9,3 +9,10 @@
 	11:57pm
 	Added Test Loading Screen
 	
+	Friday, June 8, 2018 
+	3:11am
+	Added Some commands for chat
+	
+	3:39am
+	Made Changes to Chat Look
+
